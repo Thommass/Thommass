@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Android & IOS
 - 🔭 I’m currently working on my own game engine
 
 <!--
