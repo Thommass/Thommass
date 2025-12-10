@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+ 🔭 I’m working on **AFAS SB**
 
 <!--
 **Thommass/Thommass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
